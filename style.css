@@ -107,7 +107,7 @@ header{
     padding:0 4rem;
     padding-top: 1rem;
     color: #e2dcdc;
-    z-index: 100;
+    z-index: 200;
     position: sticky;
     top: 0;
     right:0;
@@ -879,7 +879,7 @@ footer .copy-write {
     background: royalblue;
     color: aquamarine;
     border-radius: 50%;
-    z-index: 1000;
+    z-index: 99 ;
     display: flex;
     align-items: center;
     justify-content: center;
